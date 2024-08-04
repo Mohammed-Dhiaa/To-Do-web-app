@@ -1,3 +1,6 @@
 run
 clean the floor
 buy grocery
+study
+mas
+master python
