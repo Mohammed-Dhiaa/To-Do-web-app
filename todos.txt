@@ -1,6 +1,5 @@
-run
-clean the floor
 buy grocery
+clean
+run
 study
-mas
-master python
+eat 
